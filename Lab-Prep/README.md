@@ -6,7 +6,7 @@ Paper Signal Lab Ideation
 
 3) Rising Sun: Sun rises as more light enters the room.
 
-![Ideas 1-3](https://github.com/MattD18/IDD-Fa18-Lab4/blob/master/IMG_2369.JPG)
+![Ideas 1-3](https://github.com/MattD18/IDD-Fa18-Lab4/master/IMG_2369.JPG)
 
 4) Goalie Challenge: Test your timing against the motor-powered goalie.
 
