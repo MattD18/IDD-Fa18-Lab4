@@ -6,7 +6,7 @@ Paper Signal Lab Ideation
 
 3) Rising Sun: Sun rises as more light enters the room.
 
-![Ideas 1-3](https://github.com/MattD18/IDD-Fa18-Lab4/master/IMG_2369.JPG)
+![Ideas 1-3](https://github.com/MattD18/IDD-Fa18-Lab4/blob/master/Lab-Prep/IMG_2369.JPG)
 
 4) Goalie Challenge: Test your timing against the motor-powered goalie.
 
@@ -14,16 +14,16 @@ Paper Signal Lab Ideation
 
 6) Wheel of Fortune: Arrows stops when button is pressed.
 
-![Ideas 4-6](https://github.com/MattD18/IDD-Fa18-Lab4/blob/master/IMG_2370.JPG)
+![Ideas 4-6](https://github.com/MattD18/IDD-Fa18-Lab4/blob/master/Lab-Prep/IMG_2370.JPG)
 
 7) Torch Bearer: When room gets dark enough, the torch bearer "lights" an LED. 
 
 8) Toy Plane: Moves up and down in response to pressure on FSR.
 
-![Ideas 7/8](https://github.com/MattD18/IDD-Fa18-Lab4/blob/master/IMG_2370.JPG)
+![Ideas 7/8](https://github.com/MattD18/IDD-Fa18-Lab4/blob/master/Lab-Prep/IMG_2370.JPG)
 
 9) Happy Dog: Wags it's tail when pet.
 
 10) Leave-a-message: Pointer sequentially identifies each letter in a message stored in memory.
 
-![Ideas 9/10](https://github.com/MattD18/IDD-Fa18-Lab4/blob/master/IMG_2370.JPG)
+![Ideas 9/10](https://github.com/MattD18/IDD-Fa18-Lab4/blob/master/Lab-Prep/IMG_2370.JPG)
