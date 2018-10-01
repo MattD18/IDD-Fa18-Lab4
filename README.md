@@ -8,9 +8,9 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 
 ## Part A. Actuating DC motors
 
-**Link to a video of your virbation motor**
+**Link to a video of your vibration motor**
 
-see attached
+https://youtu.be/ux2LMKxAycA
 
 ## Part B. Actuating Servo motors
 
@@ -18,16 +18,17 @@ see attached
 
 **a. Which color wires correspond to power, ground and signal?**
 
-red is power, brown is ground, orange is signal
+The red wire corresponds to power, brown to ground, and orange to signal.
 
 ### Part 2. Connect the Servo to your Arduino
 
 **a. Which Arduino pin should the signal line of the servo be attached to?**
 
-pin 9
+The signal line should be attached to pin 9.
 
 **b. What aspects of the Servo code control angle or speed?**
-delay changes speed
+
+In the following code:
 ```
 void loop() {
   for (pos = 0; pos <= 180; pos += 1) { // goes from 0 degrees to 180 degrees
@@ -41,16 +42,19 @@ void loop() {
   }
 }
 ```
-and pos within the the for loop
+The delay(x) command controls speed and the range set on the pos variable in the for-loop control angle.
+
 ## Part C. Integrating input and output
 
 **Include a photo/movie of your raw circuit in action.**
 
-see attached
+https://youtu.be/xDE77daLwZk
 
 ## Part D. Paper puppet
 
 **a. Make a video of your proto puppet.**
+
+https://youtu.be/YDMoucD4fG4
 
 ## Part E. Make it your own
 
