@@ -20,10 +20,10 @@ Paper Signal Lab Ideation
 
 8) Toy Plane: Moves up and down in response to pressure on FSR.
 
-![Ideas 7/8](https://github.com/MattD18/IDD-Fa18-Lab4/blob/master/Lab-Prep/IMG_2370.JPG)
+![Ideas 7/8](https://github.com/MattD18/IDD-Fa18-Lab4/blob/master/Lab-Prep/IMG_2371.JPG)
 
 9) Happy Dog: Wags it's tail when pet.
 
 10) Leave-a-message: Pointer sequentially identifies each letter in a message stored in memory.
 
-![Ideas 9/10](https://github.com/MattD18/IDD-Fa18-Lab4/blob/master/Lab-Prep/IMG_2370.JPG)
+![Ideas 9/10](https://github.com/MattD18/IDD-Fa18-Lab4/blob/master/Lab-Prep/IMG_2372.JPG)
