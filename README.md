@@ -1,10 +1,9 @@
 # Paper Puppets
 
-*A lab report by John Q. Student*
+*A lab report by Matthew Dalton*
 
 ## In this Report
 
-To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-Lab4). You'll need to describe your design, include a video of your paper display in operation, and upload any code you wrote to make it move.
 
 ## Part A. Actuating DC motors
 
@@ -61,3 +60,6 @@ https://youtu.be/YDMoucD4fG4
 **a. Make a video of your final design.**
  
 https://youtu.be/mVqAaEyWNHw
+
+When the lights go down, Robo Raver will dance to the music.
+See code attached.
