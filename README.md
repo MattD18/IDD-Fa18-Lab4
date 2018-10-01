@@ -49,11 +49,16 @@ The delay(x) command controls speed and the range set on the pos variable in the
 
 https://youtu.be/xDE77daLwZk
 
+![Source Code](https://github.com/MattD18/IDD-Fa18-Lab4/blob/master/Senso_Motor.ino)
+
+
 ## Part D. Paper puppet
 
 **a. Make a video of your proto puppet.**
 
 https://youtu.be/YDMoucD4fG4
+
+![Source Code](https://github.com/MattD18/IDD-Fa18-Lab4/blob/master/paper_puppet.ino)
 
 ## Part E. Make it your own
 
@@ -62,4 +67,5 @@ https://youtu.be/YDMoucD4fG4
 https://youtu.be/mVqAaEyWNHw
 
 When the lights go down, Robo Raver will dance to the music.
-See code attached.
+
+![Source Code](https://github.com/MattD18/IDD-Fa18-Lab4/blob/master/raver_puppet.ino)
